@@ -1,6 +1,6 @@
 # Full Stack Web/Web3 Developer with latest technologies
 
-🔭 A full stack web/web3 developer with 5 years experience in web development and 2 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
+🔭 A full stack web/web3 developer with 6 years experience in web development and 2 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
 ⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks like [this](https://kira.network). Here are my main skills/experiences in web/web3.
 
