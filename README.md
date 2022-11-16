@@ -1,20 +1,21 @@
-# Full Stack Web/Web3 Developer with latest technologies
+# Web Expert with latest technologies
 
-🔭 A full stack web/web3 developer with 6 years experience in web development and 2 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
+I am a creative software engineer with practical experience in website and mobile app front-end development.
+I love to work with diverse talents in agile work environments.
+Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field.
+And my strengths are creativity and persistence.
+I love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
 
-⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://brevanhoward.com), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance) and blockchain networks like [this](https://kira.network). Here are my main skills/experiences in web/web3.
-
-- HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity
-- Cadence, Flow
-- React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
-- Vue(Vuex), Quasar, Vuetify, Nuxt.js
+My Skills
+- HTML / CSS, JavaScript, TypeScript, ECMA6
+- PHP, Python, Ruby
+- React(Redux, Mobx, Context), Next.js, Gatsby.js, Blitz.js
+- Vue.js(Vuex), Quasar, Vuetify, Nuxt.js
+- Webpack, Babel, Flux
+- Material-UI, Tailwind CSS, BootStrap
+- Node.js, Express.js, Nest.js
+- Laravel, CodeIgniter, Zend, Django(DRF), Flask
 - GraphQL, REST API
-- Node.js, Express.js, Koa.js, Nest.js
-- Laravel, Django(DRF), Flask, Ruby on Rails
-- Docker, Kubernetes, AWS, GCP
 - MySQL, PostgreSQL, SQLite, SQL Server
 - MongoDB, DynamoDB
-
-👯 I am looking to collaborate on web applications, decentralized applications, mainly open source projects.
-
-### Portfolio
+- Docker, Kubernetes, AWS, GCP
