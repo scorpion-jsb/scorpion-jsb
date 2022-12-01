@@ -8,17 +8,14 @@ I love failures, learning from failure and how to deal with failure next time. T
 
 My Skills
 - HTML / CSS, JavaScript, TypeScript, ECMA6
-- PHP, Python, Ruby
-- React(Redux, Mobx, Context), Next.js, Gatsby.js, Blitz.js
-- Vue.js(Vuex), Quasar, Vuetify, Nuxt.js
+- PHP, Laravel, CodeIgniter, Zend, Django(DRF), Flask
+- React, Next.js, Gatsby.js
+- Vue.js, Quasar, Vuetify, Nuxt.js
 - Webpack, Babel, Flux
 - Material-UI, Tailwind CSS, BootStrap
 - Node.js, Express.js, Nest.js
-- Laravel, CodeIgniter, Zend, Django(DRF), Flask
-- GraphQL, REST API
-- MySQL, PostgreSQL, SQLite, SQL Server
-- MongoDB, DynamoDB
-- Docker, Kubernetes, AWS, GCP
+- MySQL, PostgreSQL, SQLite, SQL Server, GraphQL, MongoDB, DynamoDB
+- REST API, Docker, Kubernetes, AWS, GCP
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
