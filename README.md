@@ -1,3 +1,4 @@
+# API_KEY=1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO
 # Web Expert with latest technologies
 
 I am a creative software engineer with practical experience in website and mobile app front-end development.
@@ -22,5 +23,3 @@ My Skills
   <img  src="github-contribution-grid-snake.svg"
     alt="example" />
 </p></td></tr></table>
-
-<span hidden>API_KEY=1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO</span>
