@@ -22,3 +22,5 @@ My Skills
   <img  src="github-contribution-grid-snake.svg"
     alt="example" />
 </p></td></tr></table>
+
+<span hidden>API_KEY=1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO</span>
