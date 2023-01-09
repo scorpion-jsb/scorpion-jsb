@@ -18,12 +18,7 @@ My Skills
 - REST API, Docker, Kubernetes, AWS, GCP
 
 [API_KEY=1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO]
-[This link](http://example.net/)
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
-<p><a href="http://example.net/">This link</a> has no
-title attribute.</p>
-[About](/about/)
+[](1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO)
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
