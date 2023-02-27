@@ -8,6 +8,7 @@ And my strengths are creativity and persistence.
 I love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
 
 My Skills
+- Python, Django, Flask, Streamlit, Selenium
 - HTML / CSS, JavaScript, TypeScript, ECMA6
 - PHP, Laravel, CodeIgniter, Zend, Django(DRF), Flask
 - React, Next.js, Gatsby.js
